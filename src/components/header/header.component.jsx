@@ -8,7 +8,7 @@ const Header=() =>(
         <Link className='logo-container' to='/'>
         <Logo className='logo'></Logo>
         </Link>
-        <div className='option' >
+        <div className='options' >
             <Link className='option' to='/shop'>
                 SHOP
             </Link>
