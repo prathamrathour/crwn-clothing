@@ -1,9 +1,5 @@
 # Crown Clothing
 
-```diff
-- Still Under development. Will update when development complete and have deployed the final product.
-```
-
 ## `Description`
 
 Before we move forward take a look at the website, register yourself with it and try and play around with things. &nbsp; **[LIVE DEMO](https://crown-clothing-web-app.herokuapp.com/ "LIVE DEMO")** </br></br>
